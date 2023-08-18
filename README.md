@@ -1,16 +1,28 @@
 ##                                                   Olá!,fico feliz que tenha chegado até aqui,seja bem-vindo ! 👾 
+
                                       
-<img align="center">
-  <a href="https://github.com/Thiago-Araujo1">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ThiagoSilvaxz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<h2> Sobre Mim </h2>
+Atualmente Eu sou estudante de Análise e desenvolvimento de sistemas, tenho uma especialização em UX Design e uma sobre Análise de dados que se encontra em andamento, assim como sou participante do Santander Bootcamp na stack de Data Science.
+tenho me interessado pela aréa de dados e espero poder estar ocupando um cargo na aréa em breve.
 
-</div>
+## Conecte-se comigo !
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/thyago-higgins-33169a50)
 
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Thi-Js" height="48" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Thi-React" height="48" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Thi-HTML" height="48" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Thi-CSS" height="48" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Thi-Python" height="48" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- 
-</div>
+## Ferramentas de Design
+![AdobeXD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=black)
+
+## Linguagens de programação
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=black) 
+![PYTHON](https://img.shields.io/badge/Python-2B5B84?style=for-the-badge&logo=python&logoColor=black)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+## Banco de dados
+ ![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+## Sistema de controle de versão
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GITHUB](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white)
+
+## GitHub Stats
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ThiagoSilvaxz&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
