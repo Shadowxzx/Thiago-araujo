@@ -6,7 +6,7 @@ Atualmente Eu sou estudante de Análise e desenvolvimento de sistemas, tenho uma
 tenho me interessado pela aréa de dados e espero poder estar ocupando um cargo na aréa em breve.
 
 ## Conecte-se comigo !
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/thyago-higgins-33169a50)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-araujo1/)
 
 ## Ferramentas de Design
 ![AdobeXD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
@@ -25,4 +25,9 @@ tenho me interessado pela aréa de dados e espero poder estar ocupando um cargo 
 ![GITHUB](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white)
 
 ## GitHub Stats
+
+ ![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ThiagoSilvaxz&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)|
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ThiagoSilvaxz&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
+
+
